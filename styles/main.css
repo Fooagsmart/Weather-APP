@@ -81,5 +81,8 @@ body{
     font-size: 28px;
     margin-top: -6%;
 }
+.weather{
+    display: none;
+}
 
 
